@@ -6,3 +6,4 @@ The paper has now been pre-accepted, and the test.py are now available. The comp
 **************2024-9-11**************
 
 The paper has been accepted, and the conference will be held in Lugano, Switzerland, on September 17, 2024. The complete code will be released after the conference on September 20. Currently, all code except for `train.py` is available.
+The `network` folder contains the network used to estimate image depth, originally available on GitHub at the following link: [https://github.com/nianticlabs/wavelet-monodepth](https://github.com/nianticlabs/wavelet-monodepth).
