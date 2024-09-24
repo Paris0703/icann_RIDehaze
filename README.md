@@ -11,4 +11,4 @@ The `network` folder contains the network used to estimate image depth, original
 **************2024-9-24**************
 
 The code has been fully open-sourced, including `train.py` and `.pth` files. Note that `train_fine_tuning.py` is for fine-tuning a model trained on a large dataset (such as RESIDE) on smaller datasets.
-pth文件在https://drive.google.com/file/d/11O4JONP_ep1c06qANy0OliD7j9Acln05/view?usp=drive_link
+pth file:  https://drive.google.com/file/d/11O4JONP_ep1c06qANy0OliD7j9Acln05/view?usp=drive_link
